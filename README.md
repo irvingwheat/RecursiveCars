@@ -1,6 +1,7 @@
 # RecursiveCars
-## A Java Project by Rosemary Davies and Carl Wheat
-## Computer Science Foundations, Winter 2017
+A Java Project by Rosemary Davies and Carl Wheat
+//
+Computer Science Foundations, Winter 2017
 
 Chapter 8.10: Recursive cars in a loop
 
