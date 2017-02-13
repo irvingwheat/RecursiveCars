@@ -7,9 +7,9 @@ import java.util.*;
 public class Car {
 
 // Public or privtte?
-int position;
-int gas;
-int distance;
+private int position;
+private int gas;
+private int distance;
 
 // Constructor Car
 
