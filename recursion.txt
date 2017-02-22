@@ -1,0 +1,4 @@
+We have an initial car.
+Base case - test first car to see if it has enough gas to go around the circle.
+After that, add up all the gas from all the cars.
+Then pick a random car.
