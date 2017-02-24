@@ -18,3 +18,4 @@ ie. (0,4,5) means that the car is in position 0 with gas for 4 miles, and the ne
 Program prints out log of travel for the whole circle starting with the winning car's original position, cumulative distance it travels as it passes every car on the road, the amount of gas when it approaches each car, and the gas levels after.
 
 
+Link: https://allaboutalgorithms.wordpress.com/2011/10/15/petrol-pumps-in-circle-problem/
