@@ -51,6 +51,19 @@ public class Car {
     // Recursive function
 
     public static void findTheWinnter(Car cars[], int size){
+        totalMiles += cars[carNumber].getDistance();
+        if (cars[0].getGas() >= totalMiles) {
+            System.out.print("1 is the winner");
+        } else {
+            gas += cars[carNumber].getGas();
+            if (gas >= totalMiles) {
+                System.out.println((carNumber+ 1) + " is the winner");
+            } else {
+                carNumber += 1;
+                FindTheWinner()
+
+            }
+        }
 
     }
 
